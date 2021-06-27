@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615181565376",
+    "project_id": "hackathon-6ae76",
+    "storage_bucket": "hackathon-6ae76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615181565376:android:0634ea403f1f00633e9c25",
+        "android_client_info": {
+          "package_name": "com.example.homeautomation1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615181565376-9ctv8977of69pd022n3qqq49u4u66ffb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUsnnpHt5HmNHhlCJ7wjFcAbPXka_r4wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615181565376-9ctv8977of69pd022n3qqq49u4u66ffb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
